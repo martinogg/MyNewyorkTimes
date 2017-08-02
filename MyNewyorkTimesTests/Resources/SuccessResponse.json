@@ -1,0 +1,389 @@
+{
+"response": {
+"meta": {
+"hits": 16183528,
+"time": 215,
+"offset": 0
+},
+"docs": [
+{
+"web_url": "https://www.nytimes.com/aponline/2017/07/27/world/europe/ap-eu-sweden-security-breach-.html",
+"snippet": "Swedish Prime Minister Stefan Lofven has shaken up his Cabinet after opposition parties said they would file a no-confidence vote in three government ministers over one of the largest security breaches in the country....",
+"lead_paragraph": "Swedish Prime Minister Stefan Lofven has shaken up his Cabinet after opposition parties said they would file a no-confidence vote in three government ministers over one of the largest security breaches in the country.",
+"abstract": null,
+"print_page": null,
+"blog": [],
+"source": "AP",
+"multimedia": [],
+"headline": {
+"main": "2 Ministers Leave Swedish Cabinet in Wake of Security Breach",
+"print_headline": "2 Ministers Leave Swedish Cabinet in Wake of Security Breach"
+},
+"keywords": [],
+"pub_date": "2017-07-27T09:30:59+0000",
+"document_type": "article",
+"news_desk": "None",
+"section_name": "World",
+"subsection_name": "Europe",
+"byline": {
+"person": [],
+"original": "By THE ASSOCIATED PRESS",
+"organization": "THE ASSOCIATED PRESS"
+},
+"type_of_material": "News",
+"_id": "5979b2db7c459f246b61b3e7",
+"word_count": 123,
+"slideshow_credits": null
+},
+{
+"web_url": "https://www.nytimes.com/aponline/2017/07/27/world/asia/ap-as-china-pyramid-scheme.html",
+"snippet": "Beijing police say they have detained 67 people involved in a suspected pyramid scheme after its members held a rare, large-scale demonstration in the capital this week to protest the government's investigation....",
+"lead_paragraph": "Beijing police say they have detained 67 people involved in a suspected pyramid scheme after its members held a rare, large-scale demonstration in the capital this week to protest the government's investigation.",
+"abstract": null,
+"print_page": null,
+"blog": [],
+"source": "AP",
+"multimedia": [],
+"headline": {
+"main": "China Police Detain Ponzi Scheme Suspects After Rare Protest",
+"print_headline": "China Police Detain Ponzi Scheme Suspects After Rare Protest"
+},
+"keywords": [],
+"pub_date": "2017-07-27T09:30:57+0000",
+"document_type": "article",
+"news_desk": "None",
+"section_name": "World",
+"subsection_name": "Asia Pacific",
+"byline": {
+"person": [],
+"original": "By THE ASSOCIATED PRESS",
+"organization": "THE ASSOCIATED PRESS"
+},
+"type_of_material": "News",
+"_id": "5979b2db7c459f246b61b3e6",
+"word_count": 119,
+"slideshow_credits": null
+},
+{
+"web_url": "https://www.nytimes.com/reuters/2017/07/27/world/europe/27reuters-britain-baby.html",
+"snippet": "The parents of Charlie Gard have until noon on Thursday to agree arrangements for the child's death in a hospice after a harrowing legal battle that sparked a debate over who has the moral authority to decide the fate of an ailing baby....",
+"lead_paragraph": "The parents of Charlie Gard have until noon on Thursday to agree arrangements for the child's death in a hospice after a harrowing legal battle that sparked a debate over who has the moral authority to decide the fate of an ailing baby.",
+"abstract": null,
+"print_page": null,
+"blog": [],
+"source": "Reuters",
+"multimedia": [],
+"headline": {
+"main": "Charlie Gard's Parents Seek More Time With Sick Son Before He Dies in a Hospice",
+"print_headline": "Charlie Gard's Parents Seek More Time With Sick Son Before He Dies in a Hospice"
+},
+"keywords": [],
+"pub_date": "2017-07-27T09:30:27+0000",
+"document_type": "article",
+"news_desk": "None",
+"section_name": "World",
+"subsection_name": "Europe",
+"byline": {
+"person": [],
+"original": "By REUTERS",
+"organization": "REUTERS"
+},
+"type_of_material": "News",
+"_id": "5979b2c17c459f246b61b3e5",
+"word_count": 456,
+"slideshow_credits": null
+},
+{
+"web_url": "https://www.nytimes.com/2017/07/27/upshot/how-a-ruling-on-texas-districts-could-help-reshape-congress.html",
+"snippet": "Republican lawyers raised the possibility of “Armageddon” — a map that endangered a half-dozen G.O.P. districts....",
+"lead_paragraph": "Republican lawyers raised the possibility of “Armageddon” — a map that endangered a half-dozen G.O.P. districts.",
+"abstract": null,
+"print_page": null,
+"blog": [],
+"source": "The New York Times",
+"multimedia": [
+{
+"width": 600,
+"url": "images/2017/07/26/upshot/up-texas1-1501040590120/up-texas1-1501040590120-articleLarge.png",
+"rank": 0,
+"height": 452,
+"subtype": "xlarge",
+"legacy": {
+"xlargewidth": 600,
+"xlarge": "images/2017/07/26/upshot/up-texas1-1501040590120/up-texas1-1501040590120-articleLarge.png",
+"xlargeheight": 452
+},
+"type": "image"
+},
+{
+"width": 190,
+"url": "images/2017/07/26/upshot/up-texas1-1501040590120/up-texas1-1501040590120-thumbWide.png",
+"rank": 0,
+"height": 126,
+"subtype": "wide",
+"legacy": {
+"wide": "images/2017/07/26/upshot/up-texas1-1501040590120/up-texas1-1501040590120-thumbWide.png",
+"widewidth": 190,
+"wideheight": 126
+},
+"type": "image"
+},
+{
+"width": 75,
+"url": "images/2017/07/26/upshot/up-texas1-1501040590120/up-texas1-1501040590120-thumbStandard.png",
+"rank": 0,
+"height": 75,
+"subtype": "thumbnail",
+"legacy": {
+"thumbnailheight": 75,
+"thumbnail": "images/2017/07/26/upshot/up-texas1-1501040590120/up-texas1-1501040590120-thumbStandard.png",
+"thumbnailwidth": 75
+},
+"type": "image"
+}
+],
+"headline": {
+"main": "How a Ruling on Texas Districts Could Help Reshape Congress",
+"kicker": "Redrawing the Maps",
+"print_headline": "How a Ruling on Texas Districts Could Help Reshape Congress",
+"content_kicker": "Redrawing the Maps"
+},
+"keywords": [
+{
+"isMajor": "N",
+"rank": 1,
+"name": "subject",
+"value": "Redistricting and Reapportionment"
+},
+{
+"isMajor": "N",
+"rank": 2,
+"name": "glocations",
+"value": "Texas"
+},
+{
+"isMajor": "N",
+"rank": 3,
+"name": "subject",
+"value": "Suits and Litigation (Civil)"
+},
+{
+"isMajor": "N",
+"rank": 4,
+"name": "subject",
+"value": "Voting Rights Act (1965)"
+},
+{
+"isMajor": "N",
+"rank": 5,
+"name": "subject",
+"value": "Elections, House of Representatives"
+},
+{
+"isMajor": "N",
+"rank": 6,
+"name": "subject",
+"value": "United States Politics and Government"
+}
+],
+"pub_date": "2017-07-27T09:30:03+0000",
+"document_type": "article",
+"news_desk": "Upshot",
+"section_name": "The Upshot",
+"subsection_name": null,
+"byline": {
+"person": [
+{
+"organization": "",
+"role": "reported",
+"rank": 1,
+"firstname": "Nate",
+"lastname": "COHN"
+}
+],
+"original": "By NATE COHN"
+},
+"type_of_material": "News",
+"_id": "5979b2a07c459f246b61b3e4",
+"word_count": 834,
+"slideshow_credits": null
+},
+{
+"web_url": "https://www.nytimes.com/reuters/2017/07/27/business/27reuters-congo-economy.html",
+"snippet": "Democratic Republic of Congo's central bank said on Thursday it expects inflation for this year to stand at 44.64 percent, up from a previous forecast of 33.12 percent and a 20 percentage point rise over last year....",
+"lead_paragraph": "Democratic Republic of Congo's central bank said on Thursday it expects inflation for this year to stand at 44.64 percent, up from a previous forecast of 33.12 percent and a 20 percentage point rise over last year. ",
+"abstract": null,
+"print_page": null,
+"blog": [],
+"source": "Reuters",
+"multimedia": [],
+"headline": {
+"main": "Congo Central Bank Predicts Steep Rise in 2017 Inflation",
+"print_headline": "Congo Central Bank Predicts Steep Rise in 2017 Inflation"
+},
+"keywords": [],
+"pub_date": "2017-07-27T09:27:38+0000",
+"document_type": "article",
+"news_desk": "None",
+"section_name": "Business Day",
+"subsection_name": null,
+"byline": {
+"person": [],
+"original": "By REUTERS",
+"organization": "REUTERS"
+},
+"type_of_material": "News",
+"_id": "5979b2167c459f246b61b3e2",
+"word_count": 84,
+"slideshow_credits": null
+},
+{
+"web_url": "https://www.nytimes.com/reuters/2017/07/27/business/27reuters-volkswagen-emissions.html",
+"snippet": "Volkswagen plans to offer to refit 4 million diesel cars at a meeting with German government officials to discuss ways to avoid diesel bans in major cities, Chief Executive Matthias Mueller said on Thursday....",
+"lead_paragraph": "Volkswagen plans to offer to refit 4 million diesel cars at a meeting with German government officials to discuss ways to avoid diesel bans in major cities, Chief Executive Matthias Mueller said on Thursday.",
+"abstract": null,
+"print_page": null,
+"blog": [],
+"source": "Reuters",
+"multimedia": [],
+"headline": {
+"main": "VW to Offer to Refit 4 Million Diesel Cars: CEO",
+"print_headline": "VW to Offer to Refit 4 Million Diesel Cars: CEO"
+},
+"keywords": [],
+"pub_date": "2017-07-27T09:27:36+0000",
+"document_type": "article",
+"news_desk": "None",
+"section_name": "Business Day",
+"subsection_name": null,
+"byline": {
+"person": [],
+"original": "By REUTERS",
+"organization": "REUTERS"
+},
+"type_of_material": "News",
+"_id": "5979b2107c459f246b61b3e1",
+"word_count": 118,
+"slideshow_credits": null
+},
+{
+"web_url": "https://www.nytimes.com/reuters/2017/07/27/world/europe/27reuters-britain-beefeaters.html",
+"snippet": "After the hordes of tourists with their cameras and selfie sticks depart from the Tower of London every evening, a private drinking hole for Beefeaters comes to life within the walls of the royal fortress....",
+"lead_paragraph": "After the hordes of tourists with their cameras and selfie sticks depart from the Tower of London every evening, a private drinking hole for Beefeaters comes to life within the walls of the royal fortress.",
+"abstract": null,
+"print_page": null,
+"blog": [],
+"source": "Reuters",
+"multimedia": [],
+"headline": {
+"main": "After-Hours Drinking Hole a Haven for Tower of London's Beefeaters",
+"print_headline": "After-Hours Drinking Hole a Haven for Tower of London's Beefeaters"
+},
+"keywords": [],
+"pub_date": "2017-07-27T09:27:36+0000",
+"document_type": "article",
+"news_desk": "None",
+"section_name": "World",
+"subsection_name": "Europe",
+"byline": {
+"person": [],
+"original": "By REUTERS",
+"organization": "REUTERS"
+},
+"type_of_material": "News",
+"_id": "5979b2167c459f246b61b3e3",
+"word_count": 633,
+"slideshow_credits": null
+},
+{
+"web_url": "https://www.nytimes.com/aponline/2017/07/27/us/ap-us-redistricting-north-carolina.html",
+"snippet": "Judges deciding when North Carolina must redraw its state legislative districts are set to hear from voting rights activists calling for special elections and Republican lawmakers urging a slower pace....",
+"lead_paragraph": "Judges deciding when North Carolina must redraw its state legislative districts are set to hear from voting rights activists calling for special elections and Republican lawmakers urging a slower pace.",
+"abstract": null,
+"print_page": null,
+"blog": [],
+"source": "AP",
+"multimedia": [],
+"headline": {
+"main": "Judges to Hear Arguments on North Carolina Redistricting",
+"print_headline": "Judges to Hear Arguments on North Carolina Redistricting"
+},
+"keywords": [],
+"pub_date": "2017-07-27T09:25:03+0000",
+"document_type": "article",
+"news_desk": "None",
+"section_name": "U.S.",
+"subsection_name": null,
+"byline": {
+"person": [],
+"original": "By THE ASSOCIATED PRESS",
+"organization": "THE ASSOCIATED PRESS"
+},
+"type_of_material": "News",
+"_id": "5979b17e7c459f246b61b3e0",
+"word_count": 122,
+"slideshow_credits": null
+},
+{
+"web_url": "https://www.nytimes.com/aponline/2017/07/27/world/europe/ap-eu-spain-unemployment.html",
+"snippet": "Official statistics show the number of unemployed in Spain fell below the 4 million mark for the first time in more than eight years as new contracts were signed for the summer tourism season....",
+"lead_paragraph": "Official statistics show the number of unemployed in Spain fell below the 4 million mark for the first time in more than eight years as new contracts were signed for the summer tourism season.",
+"abstract": null,
+"print_page": null,
+"blog": [],
+"source": "AP",
+"multimedia": [],
+"headline": {
+"main": "Summer Contracts Bring Jobless in Spain to Lowest Since '09",
+"print_headline": "Summer Contracts Bring Jobless in Spain to Lowest Since '09"
+},
+"keywords": [],
+"pub_date": "2017-07-27T09:24:55+0000",
+"document_type": "article",
+"news_desk": "None",
+"section_name": "World",
+"subsection_name": "Europe",
+"byline": {
+"person": [],
+"original": "By THE ASSOCIATED PRESS",
+"organization": "THE ASSOCIATED PRESS"
+},
+"type_of_material": "News",
+"_id": "5979b16f7c459f246b61b3df",
+"word_count": 137,
+"slideshow_credits": null
+},
+{
+"web_url": "https://www.nytimes.com/aponline/2017/07/27/world/asia/ap-as-china-earns-huawei.html",
+"snippet": "China's Huawei Technology says first-half revenues at its telecoms equipment and smartphone businesses expanded at a slower pace than the year before....",
+"lead_paragraph": "China's Huawei Technology says first-half revenues at its telecoms equipment and smartphone businesses expanded at a slower pace than the year before.",
+"abstract": null,
+"print_page": null,
+"blog": [],
+"source": "AP",
+"multimedia": [],
+"headline": {
+"main": "China's Huawei Posts Slower First-Half Revenue Growth",
+"print_headline": "China's Huawei Posts Slower First-Half Revenue Growth"
+},
+"keywords": [],
+"pub_date": "2017-07-27T09:21:47+0000",
+"document_type": "article",
+"news_desk": "None",
+"section_name": "World",
+"subsection_name": "Asia Pacific",
+"byline": {
+"person": [],
+"original": "By THE ASSOCIATED PRESS",
+"organization": "THE ASSOCIATED PRESS"
+},
+"type_of_material": "News",
+"_id": "5979b0b37c459f246b61b3de",
+"word_count": 127,
+"slideshow_credits": null
+}
+]
+},
+"status": "OK",
+"copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

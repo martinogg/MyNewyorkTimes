@@ -1,0 +1,8 @@
+{
+    "status": "ERROR",
+    "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved.",
+    "errors": [
+               "Pagination beyond page 120 is not allowed at this time."
+               ],
+    "results": []
+}

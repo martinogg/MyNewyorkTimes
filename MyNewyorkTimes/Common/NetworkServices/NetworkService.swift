@@ -237,7 +237,9 @@ public class NetworkService: NSObject, NetworkServiceInterface , ThreadSupport
         
         let task = sessionManager?.dataTask(with: urlReqeuest, completionHandler: { [weak self](resultData:Data?, response:URLResponse?, httpError:Error?) in
             
-            UIApplication.shared.isNetworkActivityIndicatorVisible = false
+            DispatchQueue.main.async {
+                UIApplication.shared.isNetworkActivityIndicatorVisible = false
+            }
             
             if let weakSelf = self
             {
